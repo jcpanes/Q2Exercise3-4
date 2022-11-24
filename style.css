@@ -1,0 +1,55 @@
+	#divi{
+		border-style: double;
+		border-width: 10px;
+		border-color: pink;
+		margin: 8%;
+		padding: 5%;
+	}
+	#product{
+		color: hotpink;
+		font-size: 18pt ;
+		text-align: center;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	#price{
+		margin-top: 20px;
+		margin-bottom: 20px;
+		font-size: 35pt;
+		text-align: center;
+		color: hotpink;
+	}
+	body{
+		background-color: lightyellow;
+	}
+	img{
+		height: 55%;
+		width: 55%;
+		margin-left: 200px;
+		margin-right: 200px;
+		border: 1 px solid #ddd;
+		border-radius: 4px;
+		padding: 2px;
+	}
+	h4{
+		color: hotpink;
+		font-size: 30pt;
+		text-align: center;
+		margin=top: 10px;
+		margin-bottom: 15px;
+	}
+	button{
+		border: none;
+		border-radius: 5px;
+		outline: 0;
+		display: inline-block;
+		padding: 5px;
+		color: white;
+		background-color: pink;
+		text-align: center;
+		cursor: pointer;
+		width: 100%;
+		font-size: 20px;
+	}
+
+
